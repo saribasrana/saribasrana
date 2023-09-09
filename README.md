@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Netas<br>🤝 I’m looking for help with errors that my repo has<br>🌱 I’m currently learning Backend Technologies<br>⚡ Fun fact I am currently coding
+🔭 I’m currently working at Netas<br>🤝 I’m looking for help with errors that my repo has<br>🌱 I’m currently learning Backend Technologies<br>⚡ Fun fact I am currently coding
 
 
 ## 🌐 Socials:
